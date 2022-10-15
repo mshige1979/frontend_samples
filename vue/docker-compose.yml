@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+
+  # frontend
+  web:
+    #
+    # コンテナ名
+    container_name: web
+    # image
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    # image
+    image: node:18.11
+    # コンテナの中に入る
+    tty: true
+    # ボリューム
+    volumes:
+      - ".:/app"
+    # WORKDIR
+    working_dir: /app
+    # 環境変数
+    environment:
+      TZ: "Asia/Tokyo"
+    # ポート開放
+    ports:
+      - 5000:5000
+    # 起動コマンド
+    command: /bin/bash /docker-entrypoint.sh

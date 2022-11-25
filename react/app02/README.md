@@ -42,4 +42,4 @@ export default App;
 
 ```
 
-https://github.com/mshige1979/frontend_samples/blob/image/react/images/lesson2/0001.png
+![top-page]([https://raw.githubusercontent.com/cakecatz/garage/images/garage-screenshot-01.png](https://github.com/mshige1979/frontend_samples/blob/image/react/images/lesson2/0001.png))

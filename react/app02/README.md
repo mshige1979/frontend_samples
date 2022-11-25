@@ -41,3 +41,5 @@ function App() {
 export default App;
 
 ```
+
+https://github.com/mshige1979/frontend_samples/blob/image/react/images/lesson2/0001.png

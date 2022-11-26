@@ -1,24 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Hello from "./components/Hello";
 
 function App() {
+  const list = [
+    {
+      id: 10,
+    },
+    {
+      id: 20,
+    },
+    {
+      id: 30,
+    },
+  ];
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {list.map((item, index) => {
+        return (
+          <div>
+            <span>{item.id}:</span>
+            <Hello />
+          </div>
+        );
+      })}
     </div>
   );
 }

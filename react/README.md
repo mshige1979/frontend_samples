@@ -12,3 +12,5 @@ React の簡易チュートリアル
   - [Link](https://github.com/mshige1979/frontend_samples/tree/main/react/app03)
 - app04.props による子コンポーネントへの値の受け渡し
   - [Link](https://github.com/mshige1979/frontend_samples/tree/main/react/app04)
+- app05.Couter コンポーネントで state 処理
+  - [Link](https://github.com/mshige1979/frontend_samples/tree/main/react/app05)

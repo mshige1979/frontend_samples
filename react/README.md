@@ -5,10 +5,10 @@ React の簡易チュートリアル
 で部分的に機能の説明を入れているつもり
 
 - app01.プロジェクト作成
-  - https://github.com/mshige1979/frontend_samples/tree/main/react/app01
+  - <a href="https://github.com/mshige1979/frontend_samples/tree/main/react/app01" target="_blank">Link</a>
 - app02.Hello コンポーネントを作成
-  - https://github.com/mshige1979/frontend_samples/tree/main/react/app02
+  - <a href="https://github.com/mshige1979/frontend_samples/tree/main/react/app02" target="_blank">Link</a>
 - app03.Hello コンポーネントの繰り返し
-  - https://github.com/mshige1979/frontend_samples/tree/main/react/app03
+  - <a href="https://github.com/mshige1979/frontend_samples/tree/main/react/app03" target="_blank">Link</a>
 - app04.props による子コンポーネントへの値の受け渡し
-  - https://github.com/mshige1979/frontend_samples/tree/main/react/app04
+  - <a href="https://github.com/mshige1979/frontend_samples/tree/main/react/app04" target="_blank">Link</a>

@@ -86,3 +86,7 @@ function App() {
 
 export default App;
 ```
+
+↓
+
+![sample](https://raw.githubusercontent.com/mshige1979/frontend_samples/image/react/images/lesson6/0001.gif)

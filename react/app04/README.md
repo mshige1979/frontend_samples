@@ -56,6 +56,10 @@ function App() {
 export default App;
 ```
 
+↓
+
+![sample](https://raw.githubusercontent.com/mshige1979/frontend_samples/image/react/images/lesson4/0001.png)
+
 ## 参考
 
 https://handsonreact.com/docs/props
